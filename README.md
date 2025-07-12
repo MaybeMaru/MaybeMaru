@@ -16,5 +16,5 @@ My **art and programming commissions** are currently **open** for work on charac
 For more information, please contact me on **Discord** at `maybemaru`.
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/maybemaru/count.svg"  />
+  <img src="https://profile-counter.deno.dev/maybemaru/count.svg"  />
 </div>
