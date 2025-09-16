@@ -1,6 +1,6 @@
 # 🦎⛄ Hi there!
 
-I'm an 18-year-old Spanish programmer and artist. I'm currently in art school and will soon start a degree in animation.  
+I'm an 18-year-old Spanish programmer and artist. I'm currently doing a degree in animation.  
 I have a particular interest in developing software for converter programs to support programmers and artists.  
 I'm especially fond of **Adobe Animate** (formerly Flash) related technologies.
 
